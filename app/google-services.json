@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "793048863164",
+    "firebase_url": "https://egrocers-99669.firebaseio.com",
+    "project_id": "egrocers-99669",
+    "storage_bucket": "egrocers-99669.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793048863164:android:36e5eff250e86530",
+        "android_client_info": {
+          "package_name": "com.example.welcome.egrocers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793048863164-elahnbuo241q3argp1ma14rl03iuh9oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsD_9oozu0ppvD_ftrS0Db7tWSqlCzG6Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

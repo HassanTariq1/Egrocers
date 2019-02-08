@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       android:hint="Table Number"
+        android:id="@+id/tabbb"
+        android:inputType="number"
+
+        android:gravity="center"/>
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Phone Number"
+        android:id="@+id/phonee"
+        android:inputType="number"
+        android:gravity="center"/>
+
+
+
+    <Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Click to Proceed "
+        android:id="@+id/btnn"
+    android:gravity="center"
+    android:background="#c1ed47"
+    android:layout_gravity="center"/>
+
+
+
+</LinearLayout>
