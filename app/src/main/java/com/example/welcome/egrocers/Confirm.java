@@ -26,7 +26,7 @@ public class Confirm extends AppCompatActivity {
                 Intent i= new Intent(Intent.ACTION_VIEW);
                 i.setData(Uri.parse("smsto:+923088933720"));
                 i.putExtra("sms_body",txtt.getText().toString());
-                   i.putExtra("sms_body",txttt.getText().toString());
+               //    i.putExtra("sms_bodyy",txttt.getText().toString());
                 startActivity(i);
 
 
